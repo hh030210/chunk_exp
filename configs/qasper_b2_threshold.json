@@ -1,0 +1,1 @@
+{"threshold": 0.37613460421562195, "quantile": 0.25, "sentence_pairs": 57943, "validation_documents": "data/qasper_dev_calibration/documents.jsonl"}
